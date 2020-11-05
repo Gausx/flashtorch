@@ -12,9 +12,4 @@ htmlcov
 models
 .DS_Store
 development
-.idea/deployment.xml
-.idea/workspace.xml
-.idea/workspace.xml
-.idea/workspace.xml
-.idea/misc.xml
-.idea/flashtorch.iml
+.idea/*

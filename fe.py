@@ -1,5 +1,5 @@
 import os  # NOQA: E402
-os.environ["CUDA_VISIBLE_DEVICES"] = "3"  # NOQA: E402
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"  # NOQA: E402
 import matplotlib.pyplot as plt
 import torchvision.models as models
 

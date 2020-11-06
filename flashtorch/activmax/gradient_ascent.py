@@ -290,7 +290,7 @@ class GradientAscent:
             self.gradients /= (torch.sqrt(torch.mean(
                 torch.mul(self.gradients, self.gradients))) + 1e-5)
 
-            x = x + self.gradients * self._lr
+            x =  x + self.gradients * self._lr
             output.append(x)
 
         return output

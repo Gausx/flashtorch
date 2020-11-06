@@ -20,6 +20,82 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="fe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flashtorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gradient_ascent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flashtorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flashtorch/activmax" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flashtorch/activmax/gradient_ascent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flashtorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.fe" />
+        <item itemvalue="Python.gradient_ascent" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,10 +106,93 @@
       <option name="presentableId" value="Default" />
       <updated>1604384248917</updated>
       <workItem from="1604384250012" duration="218000" />
+      <workItem from="1604560293416" duration="659000" />
+      <workItem from="1604561076964" duration="416000" />
+      <workItem from="1604561790486" duration="65000" />
+      <workItem from="1604561866607" duration="7653000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" width="1099" height="683" key="#Deployment" timestamp="1604562544653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="1099" height="683" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1604562544653" />
+    <state x="605" y="195" key="#Options" timestamp="1604561873077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="605" y="195" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1604561873077" />
+    <state x="677" y="165" key="#SSH_Configurations" timestamp="1604562532444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="165" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1604562532444" />
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604561304365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604561304365" />
+    <state width="1632" height="466" key="DebuggerActiveHint" timestamp="1604566010730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1632" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1604566010730" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604561333809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604561333809" />
+    <state width="1035" height="348" key="GridCell.Tab.0.bottom" timestamp="1604643554006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1035" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604643554006" />
+    <state width="1035" height="348" key="GridCell.Tab.0.center" timestamp="1604643554006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1035" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604643554006" />
+    <state width="1035" height="348" key="GridCell.Tab.0.left" timestamp="1604643554006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1035" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604643554006" />
+    <state width="1035" height="348" key="GridCell.Tab.0.right" timestamp="1604643554006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1035" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604643554006" />
+    <state width="1035" height="348" key="GridCell.Tab.1.bottom" timestamp="1604643554006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1035" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604643554006" />
+    <state width="1035" height="348" key="GridCell.Tab.1.center" timestamp="1604643554006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1035" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604643554006" />
+    <state width="1035" height="348" key="GridCell.Tab.1.left" timestamp="1604643554006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1035" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604643554006" />
+    <state width="1035" height="348" key="GridCell.Tab.1.right" timestamp="1604643554006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1035" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604643554006" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1604563592941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604563592941" />
+    <state width="968" height="524" key="XDebugger.FullValuePopup" timestamp="1604564673632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="524" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604564673632" />
+    <state x="751" y="385" width="851" height="268" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1604563546580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="385" width="851" height="268" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1040@0.0.1920.1040" timestamp="1604563546580" />
+    <state x="980" y="250" width="432" height="539" key="ftp.server.browser" timestamp="1604563590259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="980" y="250" width="432" height="539" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1604563590259" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flashtorch$gradient_ascent.coverage" NAME="gradient_ascent Coverage Results" MODIFIED="1604565774910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flashtorch/activmax" />
+    <SUITE FILE_PATH="coverage/flashtorch$fe.coverage" NAME="fe Coverage Results" MODIFIED="1604565785759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flashtorch$test.coverage" NAME="test Coverage Results" MODIFIED="1604566329030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
